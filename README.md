@@ -50,7 +50,6 @@
 <h4 align="center">Isometric view of contributions in the last year.</h4>
 	  
 <p align="center">
-	<img src="https://ghchart.rshah.org/naho199345"/>
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="https://ghchart.rshah.org/naho199345"/>
 	</a>
 </p>
