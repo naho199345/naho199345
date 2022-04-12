@@ -5,7 +5,7 @@
 
 </p>
  <p align="center">
- <a href="https://l-0-l.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=프잘백"></a>
+ <a href="https://naho199345.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=개발성장일지"></a>
 </p>
 
 <br>
