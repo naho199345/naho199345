@@ -1,6 +1,6 @@
 <p align="center">안녕하세요 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 저는 승호입니다.</p>
-<p align="center"> 
-  <a href="https://github.com/naho199345"><img src="https://typing-text-svg.herokuapp.com?font=&color=1E8CBE&center=true&vCenter=true&lines=Kim+Seung+Ho+;%F0%9F%9A%80+신입+백엔드+개발자입니다;"></a>
+<p align="center">
+  <strong>🚀 백엔드 개발자입니다.</strong>
 </p>
 <p align="center">
  <a href="https://naho199345.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=개발성장일지"></a>
