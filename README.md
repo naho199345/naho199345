@@ -3,7 +3,7 @@
   <strong>🚀 백엔드 개발자입니다.</strong>
 </p>
 <p align="center">
- <a href="https://naho199345.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=개발성장일지"></a>
+ <a href="https://naho199345.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=블로그 입장"></a>
 </p>
 <br>
 
